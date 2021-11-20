@@ -1,5 +1,9 @@
 
-Module used
+## Test Automation Framework
+
+### Test Frame Work from scratch using Python 3
+
+#### Module used in the project:
 
 * Selenium
 * Pytest
@@ -8,3 +12,6 @@ Module used
 * Openpyxl
 * Allure-pytest
 * python-dotenv
+
+
+
